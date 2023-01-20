@@ -1,4 +1,6 @@
-
+html{
+   font-size: 115%;
+}
 :root{
     --deft:10rem;
 }
