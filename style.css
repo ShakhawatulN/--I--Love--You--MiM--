@@ -51,7 +51,7 @@
 }
 
 .cube-box:hover{
-    --deft:18rem;
+    --deft: 22rem;
     animation-play-state: paused;
 }
 
