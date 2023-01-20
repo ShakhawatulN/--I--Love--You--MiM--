@@ -1,16 +1,14 @@
-html{
-   font-size: 115%;
-}
+
 :root{
-    --deft:10rem;
+    --deft:15rem;
 }
 .wrapper{
     margin-top: 25rem;
     perspective:100rem;
 }
 .cube-box{
-    width: 20rem;
-    height: 20rem;
+    width: 30rem;
+    height: 30rem;
     margin: auto;
     transform-style:preserve-3d;
 }
@@ -53,7 +51,7 @@ html{
 }
 
 .cube-box:hover{
-    --deft:20rem;
+    --deft:18rem;
     animation-play-state: paused;
 }
 
